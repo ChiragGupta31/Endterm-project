@@ -1,0 +1,28 @@
+.container-why{
+    height: 550px;
+    width: 100%;
+    margin-top: 200px;
+}
+
+.container-why h1{
+    margin-bottom: 80px;
+}
+
+.images{
+    display: flex;
+    align-items: center;
+
+}
+.images div{
+    margin: auto;
+    text-align: center;
+}
+
+.images div h2{
+    color: #6d3078;
+}
+
+.images div  p{
+    color: #f37435;
+    font-weight: bold;
+}

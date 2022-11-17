@@ -1,0 +1,28 @@
+.container-blogs{
+    height: 550px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+
+}
+
+.subdivs {
+    margin-top: -50px;
+    height: 300px;
+    width: 380px;
+    text-align: justify;
+    margin-right: 40px;
+    margin-left: 80px;
+    
+}
+
+.subdivs h2{
+    color: #f37435;
+    
+}
+
+.subdivs p{
+    font-weight: bold;
+    font-size: 18px;
+    color: #6d3078;
+}

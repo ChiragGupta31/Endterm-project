@@ -1,0 +1,42 @@
+.container-online{
+    background-color: #f3cdfa;
+    height: 650px;
+    width: 100%;
+}
+
+.container-online h1{
+    padding-top: 160px;
+    font-size: 50px;
+    margin-right: 500px;
+}
+
+.container-online img{
+    height: 450px;
+    width: 400px;
+    background-color:transparent;
+    margin-left: 380px;
+    margin-top: -300px;
+    
+}
+
+.btnn{
+    height: 60px;
+    border: none;
+    width: 160px;
+    background-color: #f37435;
+    border-radius: 6px;
+    margin-left: 425px;
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    cursor: pointer;
+    
+}
+
+.btnn:hover{
+    color: #6d3078;
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 1px 1px 2px 2px #6d3078;
+    
+}

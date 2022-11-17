@@ -1,0 +1,56 @@
+.container-footer{
+    background-color: #6d3078;
+    height: 420px;
+    width: 100%;
+    
+}
+
+.container-footer p{
+    color: #f37435;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 15px;
+}
+
+hr{
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.subdivss h3{
+    color: #f37435;
+    margin-left: 160px; 
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+ul{
+    margin-left: 160px;
+    list-style-type: none;
+    color: white;
+}
+
+.subdivss{
+    display: flex;
+}
+
+
+.icons{
+    text-align: center;
+    margin-top: 90px;
+    font-size: 30px;
+    color: white;
+
+}
+
+.icons i{
+    padding-right: 20px;
+}
+
+.copy{
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+
+}
